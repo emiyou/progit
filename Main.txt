@@ -1,3 +1,7 @@
 before the seperator is none sign.
 2016-11-14 21:00
 ---------------------------------
+Now i am going to repair FB1110.
+repairing fb1110...
+ok,fb1110 has be repaired.
+---------------------------------
